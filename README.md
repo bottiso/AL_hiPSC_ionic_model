@@ -1,7 +1,6 @@
 # AL_hiPSC_ionic_model
 
 **Software requirements**
-
 Matlab
 
 
