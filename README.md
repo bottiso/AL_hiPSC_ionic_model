@@ -19,7 +19,7 @@ This MATLAB (The MathWorks, Natick, MA) source code provides an implementation o
 
 ## License
 
-The software is provided with NO WARRANTY and is licensed under the BSD 3-Clause license.
+The software is provided with NO WARRANTY and is licensed under the BSD 2-Clause "Simplified" License.
 
 ## How to Run
 
