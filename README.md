@@ -1,6 +1,7 @@
 # AL_hiPSC_ionic_model
 
-**Introduction**
+Introduction
+
 This MATLAB (The MathWorks, Natick, MA) source code provides an implementation of a phenotype specific ionic model for matured and paced atrial-like hiPSC-CMs integrating the atrial specific IKur and IKCa currents
 
 **Software requirements**: 
