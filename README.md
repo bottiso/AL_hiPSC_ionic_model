@@ -32,11 +32,15 @@ When using this ionic model, please cite the following manuscript:
 
 ```tex
 @article{Botti2024,
-  author = {S. Botti, C. Bartolucci, C. Altomare, M. Paci, R. Krause, L. F. Pavarino, and S. Severi},
-  title = {A novel ionic model for matured and paced atrial-like hiPSC-CMs integrating IKur and IKCa currents},
+  author = {Sofia Botti and Chiara Bartolucci and Claudia Altomare and Michelangelo Paci and Lucio Barile and Rolf Krause and Luca Franco Pavarino and Stefano Severi}
+  title = {A novel ionic model for matured and paced atrial-like human iPSC-CMs integrating IKur and IKCa currents},
   journal = {Computers in Biology and Medicine},
+  volume = {180},
+  pages = {108899},
   year = {2024},
-  note = {To appear}
+  issn = {0010-4825},
+  doi = {https://doi.org/10.1016/j.compbiomed.2024.108899},
+}
 }
 
 
