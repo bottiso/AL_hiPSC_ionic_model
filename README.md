@@ -14,7 +14,7 @@ This MATLAB (The MathWorks, Natick, MA) source code provides an implementation o
 - Dr. Sofia Botti (Euler Institute, USI - Department of Mathematics, UNIPV)
 - Dr. Chiara Bartolucci (Department of Engineering, UNIBO)
 - Dr. Rolf Krause (Euler Institute, USI - Department of Mathematics, UNIDISTANCE)
-- Dr. Luca Franca Pavarino (Department of Mathematics, UNIPV)
+- Dr. Luca Franco Pavarino (Department of Mathematics, UNIPV)
 - Dr. Stefano Severi (Department of Engineering, UNIBO)
 
 ## License
